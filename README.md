@@ -4,7 +4,7 @@ A quick, clean typing speed test. Type the words, watch your WPM and accuracy
 update live, race the clock, and try to beat your best score. Pick 15, 30 or 60
 seconds. It runs entirely in your browser.
 
-**Live:** https://siddique-12300983.github.io/typing-speed-game/
+**Live:** https://ruxchipher.github.io/typing-speed-game/
 
 ## How to play
 
